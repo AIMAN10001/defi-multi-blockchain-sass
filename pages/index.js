@@ -13,6 +13,7 @@ import {
   Loader,
   IconOne,
   IconTwo,
+  Footer,
 } from "../components/index";
 import { CONTEXT } from "../context/index";
 
@@ -64,6 +65,7 @@ const index = () => {
           <Loader />
         </div>
       )}
+      <Footer />
     </div>
   );
 };

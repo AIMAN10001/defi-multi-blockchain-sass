@@ -9,6 +9,7 @@ import Promo from "./Promo";
 import Loader from "./Loader";
 import IconOne from "./SVG/IconOne";
 import IconTwo from "./SVG/IconTwo";
+import Footer from "./Footer";
 
 export {
   Header,
@@ -22,4 +23,5 @@ export {
   Loader,
   IconOne,
   IconTwo,
+  Footer,
 };
