@@ -31,6 +31,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## Connect On Social Media
 
 - [Twitter](https://twitter.com/example)
-- [LinkedIn](https://linkedin.com/company/example).
+- [LinkedIn](https://www.linkedin.com/in/aiman-ibn-ubayd-851216291/).
 
 Happy coding! 🚀
